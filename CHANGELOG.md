@@ -6,6 +6,11 @@
 
 ## [Unreleased]
 
+## Added
+- 趣味の追加
+- CSSの変更
+- JSの変更
+ 
 ## [0.2.0] - 2026-11-17
 
 ### Changed
